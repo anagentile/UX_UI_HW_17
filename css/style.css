@@ -13,8 +13,7 @@ nav{
     width: 73%;
     padding: 1%;
     font-family: 'Poppins', sans-serif;
-    font-weight: bold;
-    
+    font-weight: bold;   
 }
 ul{
     width: 50%;
@@ -24,18 +23,20 @@ ul{
 .heroImg{
     height: 600px;
     padding: 25px;
+
 }
 .content{
     width: 500px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 25px;
     font-family: 'Poppins', sans-serif;
 }
 footer{
     background-color: #373738;
     color: white;
     text-align: justify;
-    font-family: 'Poppins','sans-serif';  
+    font-family: 'Poppins','sans-serif'; 
+    margin-top: 40px; 
 }
 footer ul{
     display: inline-block;
@@ -58,6 +59,10 @@ border-radius: 40px;
 font-family: 'Poppins', 'sans-serif';
 font-weight: bolder;
 font-size: 16px;
+}
+
+body{
+    margin: 0%;
 }
 
 
