@@ -22,7 +22,7 @@ ul{
 
 .heroImg{
     height: 600px;
-    padding: 25px;
+    /*padding: 25px; not used so the footer covers all the page*/
 
 }
 .content{
@@ -41,7 +41,7 @@ footer{
 footer ul{
     display: inline-block;
     vertical-align: top;
-    padding: 1%;
+    padding: 2%;
 }
 .special-word { 
     color: #DAB9E4; 
@@ -65,4 +65,11 @@ body{
     margin: 0%;
 }
 
-
+.color{
+    background-color: rgba(244, 241, 255, 0.5);
+}
+#AG{
+    width: 100px;
+    float: right;
+    padding: 40px;
+}
